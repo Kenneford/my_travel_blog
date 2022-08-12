@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 290px;
+    background: #156ac5;
+    color: #fff;
+    align-items: center;
+    border-bottom: 2px solid #ffa500;
+}
+span{
+    color: #ffa500;
+}
+.navLinks a{
+    margin: 5px 10px;
+    text-decoration: none;
+    color: #ffa500;
+}
+.navLinks a:hover{
+    color: #fdb021;
+    font-weight: 700;
+}

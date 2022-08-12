@@ -1,0 +1,87 @@
+[
+    {
+        "title": "African Tour",
+        "description": "Take a tour to any of our African destinations of your choice!",
+        "destinations": [
+        {
+            "_id": "RW1",
+            "country": "Rwanda",
+            "city": "Nyanza",
+            "bgImage": "./rwanda.jpg",
+            "lang": "English/French",
+            "location": " East-Central Africa",
+            "tourPlace": "Rwanda African Art Museum",
+            "tourInfo": "",
+            "eatingPlace": "",
+            "shoppingPlace": "",
+            "sleepingPlace": "",
+            "entertainment": ""
+        },
+        {
+            "_id": "SA2",
+            "country": "South-Africa",
+            "city": "",
+            "lang": "",
+            "location": "",
+            "tourPlace": "",
+            "tourInfo": "",
+            "eatingPlace": "",
+            "shoppingPlace": "",
+            "sleepingPlace": "",
+            "entertainment": ""
+        },
+        {
+            "_id": "GH3",
+            "country": "Ghana",
+            "city": "",
+            "lang": "",
+            "location": "",
+            "tourPlace": "",
+            "tourInfo": "",
+            "eatingPlace": "",
+            "shoppingPlace": "",
+            "sleepingPlace": "",
+            "entertainment": ""
+        },
+        {
+            "_id": "SG4",
+            "country": "Senegal",
+            "city": "",
+            "lang": "",
+            "location": "",
+            "tourPlace": "",
+            "tourInfo": "",
+            "eatingPlace": "",
+            "shoppingPlace": "",
+            "sleepingPlace": "",
+            "entertainment": ""
+        },
+        {
+            "_id": "CA5",
+            "country": "Cameroon",
+            "city": "",
+            "lang": "",
+            "location": "",
+            "tourPlace": "",
+            "tourInfo": "",
+            "eatingPlace": "",
+            "shoppingPlace": "",
+            "sleepingPlace": "",
+            "entertainment": ""
+        },
+        {
+            "_id": "EG6",
+            "country": "Egypt",
+            "city": "",
+            "lang": "",
+            "location": "",
+            "tourPlace": "",
+            "tourInfo": "",
+            "eatingPlace": "",
+            "shoppingPlace": "",
+            "sleepingPlace": "",
+            "entertainment": ""
+        }
+    ]
+    }
+]
