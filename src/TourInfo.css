@@ -1,0 +1,27 @@
+.tour p{
+    margin: 10px 0 0;
+    line-height: 1.5em;
+}
+.tour h1{
+    text-align: center;
+    padding: 20px 0;
+}
+.tour h2{
+    margin-top: 40px;
+    color: #453f3f;
+    font-weight: 100;
+}
+.locLang{
+    display: flex;
+    justify-content: center;
+}
+.lang{
+    padding-left: 70px;
+}
+.contentWrap{
+    display: flex;
+}
+.wrap1, .wrap2{
+    width: 50%;
+    padding-right: 30px;
+}

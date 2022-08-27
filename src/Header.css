@@ -1,8 +1,9 @@
 header{
     display: flex;
     justify-content: space-between;
-    padding: 10px 290px;
+    padding: 10px 40px;
     background: #156ac5;
+    font-size: 1.2em;
     color: #fff;
     align-items: center;
     border-bottom: 2px solid #ffa500;
@@ -11,7 +12,7 @@ span{
     color: #ffa500;
 }
 .navLinks a{
-    margin: 5px 10px;
+    margin: 0px 10px;
     text-decoration: none;
     color: #ffa500;
 }

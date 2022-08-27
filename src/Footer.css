@@ -1,4 +1,14 @@
 footer{
-    min-height: 200px;
+    /* min-height: 200px; */
     background: #156ac5;
+    border-top: 2px solid #ffa500;
+}
+.copy{
+    width: 100%;
+    background: #000;
+}
+.copy p{
+    text-align: center;
+    padding: 5px;
+    color: #fff;
 }

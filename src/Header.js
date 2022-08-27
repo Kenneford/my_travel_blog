@@ -1,12 +1,15 @@
 import React from 'react'
-import {NavLink} from 'react-router-dom'
+import {NavLink, Outlet} from 'react-router-dom'
+import {useState, useEffect} from 'react'
+import { fetchData, fetchAssets } from './controller/content';
 import './Header.css'
 
-export default function Header({tourData}) {
+export default function Header() {
+
   return (
     <div>
         <header>
-            <h1>Kenn<span>Travel</span></h1>
+            <h1>Kenel<span>Travel</span></h1>
             <div className='navLinks'>
                 <NavLink to="/">Home</NavLink>
                 <NavLink to="/about">About</NavLink>
